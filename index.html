@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meditation And Yoga, The Effects On The Mind </title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css"> <!--link to font style sheet icons css-->
 </head>
 <body>
     <section class="header">
     <nav>
         <a href="index.html"><img src="/assets/images/logo/yogalogo.png"></a>
-        <div class="nav-links">
+        <div class="nav-links" id="navLinks">
+            <i class="fa fa-window-close" onclick="HideSideMenu"></i>
         <ul>
             <li><a href="">HOME</a></li>
             <li><a href="">ABOUT</a></li>
@@ -19,16 +21,20 @@
             <li><a href="">CONTACT</a></li>
         </ul>
     </div>
+    <i class="fa fa-bars" onclick="ShowSideMenu"></i>
     </nav>
     <div class="text-box">
         <h1>text</h1>
         <p>more text</p>
-        <a href="">link</a>
+        <a href="" class="hero-btn">link</a>
     </div>
 </section>
     <section></section>
     <section></section>
+    var navLLinks=document.getElementById("navLinks")
 
-    <footer></footer>
+    <script>
+
+    </script>
 </body>
 </html>
