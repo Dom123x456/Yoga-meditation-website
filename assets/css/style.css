@@ -1,0 +1,17 @@
+     *{
+        margin: 0%;
+        padding: 0%;
+     }
+
+     body{
+      background-color: pink;
+      color: blue;
+     }
+     .header{
+      width: 100%;
+      min-height: 100vh;
+      background-image: linear-gradient(rgb(6, 31, 134),rgb(6, 31, 134)),url(../images/banner.jpg);
+      background-position: center;
+      background-size: cover;
+      position: relative;
+     }
