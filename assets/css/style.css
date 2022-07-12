@@ -71,23 +71,24 @@
      }
 
 
-     @media(max-width:700px){
+
+     @media(max-width: 700px){
       .text-box h1{
          font-size: 20px;
+      }
+      .nav-links ul li{
+         display: block;
         }
-     }
-     .nav-links ul li{
-      display: block;
-     }
-     .nav-links{
-      position: absolute;
-      background: #f44336;
-      height: 100vh;
-      width: 200px;
-      top: 0;
-      right: -200px;
-      text-align: left;
-      z-index: 2;
+        .nav-links{
+         position: absolute;
+         background: #c79409;
+         height: 100vh;
+         width: 200px;
+         top: 0;
+         right: 0px;
+         text-align: left;
+         z-index: 2;
+         transition: 1s;
      }
      nav.fa{
       display: block;
@@ -100,3 +101,14 @@
       padding: 30px;
 
      }
+   }
+   /*---- course introduction and explanation ----*/
+   .course{
+      width: 80%;
+      margin: auto;
+      text-align: center;
+      padding-top: 100px;
+   }
+      
+     
+     
