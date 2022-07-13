@@ -135,7 +135,7 @@ h1{
    font-weight: 600;
 }
 p{
-   color: #777;
+   color: rgb(102, 102, 102);
    font-size: 14px;
    font-weight: 300;
    line-height: 22px;
@@ -149,7 +149,7 @@ p{
  
 .course-col{
    flex-basis: 31%;
-   background: #0547c2;
+   background: #7a83ff;
    border-radius: 10px;
    margin-bottom: 5%;
    padding: 20px 12px;
