@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meditation And Yoga, The Effects On The Mind </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css" integrity="sha384-zIaWifL2YFF1qaDiAo0JFgsmasocJ/rqu7LKYH8CoBEXqGbb9eO+Xi3s6fQhgFWM" crossorigin="anonymous"> <!--link to font style sheet icons css-->
+    <link rel="stylesheet" href="assets/css/style.css"> 
+</head>
+<body>
+    <section class="header">
+    <nav>
+        <a href="index.html"><img src="/assets/images/logo/yogalogo.png"></a>
+        <div class="nav-links" id="navLinks">
+            <i class="fa fa-times" aria-hidden="true" onclick="HideMenu"></i>
+        <ul>
+            <li><a href="">HOME</a></li>
+            <li><a href="">ABOUT</a></li>
+            <li><a href="">COURSE</a></li>
+            <li><a href="">CONTACT</a></li>
+        </ul>
+    </div>
+    <i class="fa fa-bars" aria-hidden="true" onabort="ShowMenu"></i>
+    </nav>
+    <div class="text-box">
+        <h1>text</h1>
+        <p>more text</p>
+        <a href="" class="hero-btn">link</a>
+    </div>
+</section>
+
+    <section class="course">
+        <h1>Course that we offer</h1>
+        <p> this is the text for detailes relating to what the website is offering and promoting.</p>
+        <div class="row">
+            <div class="course-col">
+                <h3>Begginer</h3>
+                <p>
+                    this is the text for detailes relating to what the website is offering and promoting.</p>
+            </div>
+            <div class="course-col">
+                <h3>Intermidate</h3>
+                <p>
+                    this is the text for detailes relating to what the website is offering and promoting.</p>
+            </div>
+            <div class="course-col">
+                <h3>Expert</h3>
+                <p>
+                    this is the text for detailes relating to what the website is offering and promoting.</p>
+            </div>
+        </div>
+
+    </section>
+    
+
+    <script>
+        var navLinks=document.getElementById("navLinks")
+        function ShowMenu(){
+            navLinks.style.right="0";
+        }
+        function HideMenu(){
+            navLinks.style.right="-200px";
+        }
+    </script>
+</body>
+</html>
