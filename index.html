@@ -14,22 +14,24 @@
         <div class="nav-links" id="navLinks">
             <i class="fa fa-times" aria-hidden="true" onclick="HideMenu"></i>
         <ul>
-            <li><a href="">HOME</a></li>
-            <li><a href="">ABOUT</a></li>
-            <li><a href="">COURSE</a></li>
-            <li><a href="">CONTACT</a></li>
+            <li><a href="#Home" aria-label="Jump to the Home section">HOME</a></li>
+            <li><a href="#About" aria-label="Jump to the About section">ABOUT</a></li>
+            <li><a href="#Facilities" aria-label="Jump to the Facilities section" >FACILITIES</a></li>
+            <li><a href="#Course" aria-label="Jump to the Course section">COURSE</a></li>
+            <li><a href="#Contact" aria-label="Jump to the Contact section" >CONTACT</a></li>
         </ul>
     </div>
-    <i class="fa fa-bars" aria-hidden="true" onabort="ShowMenu"></i>
+    <i class="fa fa-bars" aria-hidden="true" onclick="ShowMenu"></i>
     </nav>
-    <div class="text-box">
+    <div class="text-box" id="Home">
         <h1>Inner Creation and Meditation</h1>
-        <p>more text</p>
-        <a href="" class="hero-btn">link</a>
+        <p>FOR MEN & WOMEN:
+            combining the best of YOGA & PILATES in one active fitness class: suitable for all ages and fitness levels</p>
+        <a href="https://www.yogapilatesbolton.com/" class="hero-btn">See For Yourself</a>
     </div>
 </section>
 
-    <section class="course">
+    <section class="course" id="Course">
         <h1>Course that we offer...</h1>
         <p> this is the text for detailes relating to what the website is offering and promoting.</p>
         <div class="row">
@@ -52,7 +54,7 @@
 
     </section>
     <!--About page-->
-    <section class="about">
+    <section class="about" id="About">
         <h1>About Us</h1>
         <p>this section will talk about the purpose of the site and how it started</p>
         <div class="row">
@@ -74,7 +76,7 @@
     </section>
     <!-----Facilities---->
     
-    <section class="facilities">
+    <section class="facilities" id="Facilities">
         <h1>Our Facilities</h1>
         <p>this text refers to the facilities where they are located and what they offer.</p>
         <div class="row">
@@ -127,34 +129,35 @@
         </section>
 
         <!---------call to action-------->
-        <section class="cta">
+        <section class="cta" id="Contact">
             <h1>Start Your Enrollment Here!</h1>
-            <a href="" class="hero-btn">Contact Us</a>
+            <a href="https://www.formsite.com/solutions/?AdSource=aw-Sitelinks-examples&q=online%20registration%20forms&utm_source=google&utm_medium=cpc&utm_campaign=GGL-UKIE-NB-CORE-BROAD&utm_adgroup=forms_registration-BROAD&utm_term=online%20registration%20forms&utm_device=c&gclid=Cj0KCQjwof6WBhD4ARIsAOi65ajaFg_JzVovDW_hqvSR1LwVin9_7oWE5e3_AgBmieZHAhNJZFD8F30aAnzIEALw_wcB" class="hero-btn">Contact Us</a>
 
         </section>
         <!---------footer-------->
         <section class="footer">
-            <h4> About Us</h4>
+            <h4> Visit Us</h4>
             <p>This text will be about the about us explaining aspect of the company</p>
             <footer>
             <div class="icons">
-                <i class="fa-brands fa-facebook"></i>
-                <i class="fa fa-instagram"></i>
-                <i class="fa fa-twitter"></i>
-                <i class="fa fa-linkedin-square"></i>
+              <a href ="https://www.facebook.com/"> <i class="fa fa-facebook"></i></a>
+                <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+                <a href="https://www.twitter.com/"><i class="fa fa-twitter"></i></a>
+                <a href="https://uk.linkedin.com/"><i class="fa fa-linkedin-square"></i></a>
             </div>
         </footer>
         
         </section>
-        
+        <!----------JavaScript for toggle menu----------->
     <script>
-        var navLinks=document.getElementById("navLinks")
+        var navLinks = document.getElementById("navLinks");
         function ShowMenu(){
-            navLinks.style.right="0";
+            navLinks.style.right = "0";
         }
         function HideMenu(){
-            navLinks.style.right="-200px";
+            navLinks.style.right = "-200px";
         }
+
     </script>
     <script src="https://kit.fontawesome.com/25fb3548cd.js" crossorigin="anonymous"></script>
 </body>
