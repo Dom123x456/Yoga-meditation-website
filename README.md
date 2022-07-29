@@ -162,6 +162,17 @@ mobile view
 
 COLOURS AND UX:
 
+ -rgb(255, 255, 255) White
+ -#f44336; Dark tinge Oragnge
+ -#1e9b6b Dark Green
+ -#668aff Light Blue
+ -rgb(0, 0, 0) Black
+ -#d31e54; Dark Pink
+-rgba(13, 5, 124, 0.7) Slightly Darker Blue
+-rgb(238, 255, 0) Yellow
+
+
+
 IMAGERY:
 The images that were used within my website were Yoga and meditation themed with the intent to give a relaxing feeling and to be reasured. This included images of peeople meditating, people perfoming yoga and other images that suited the needs for other sections of the page like, site location images(i.e buildings or image of people for review sections.) 
 
@@ -180,6 +191,12 @@ FEATURES:
 
 -Navigational Bar
 Heading each page top, it’s fully responsive and toggles to a neat hamburger menu except the task bar icon that is not currently working on smaller screens. It contains links to the page areas like about and courses for example, which is easy to  fined and user by the user while traversing the page.
+
+-Transitions
+Used on images on About us section and used on the buttons on the top of the page when hovered over  by a mouse.
+
+-Videos
+used on the Facilties section of the page with controls to play, stop, rewind fastforward and fullscreen.
 
 -Footer
 Sat at the bottom is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. These  links are dressed in a icon that are easy to see and recognise to there site location.
