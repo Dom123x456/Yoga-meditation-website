@@ -23,11 +23,27 @@ My website has buttons on the top of the page that link to other sections on the
 ![image](https://user-images.githubusercontent.com/108178672/181743185-bd63e693-50f8-4a6a-80f7-73dbb442a86c.png)
 I aslo had icons that would also link to seperate sites which took the form as social media icons at the bottom of the page in the footer, which was acompanied with text.
 ![image](https://user-images.githubusercontent.com/108178672/181747326-11ebd97a-c0b6-4528-9e88-96b47db4c6aa.png)
-In the middle of the web page I had text boxes that were orignal meant to transition slighly while hovering over the boxes to give them a tint but them scrap this as i eventual used it on another eleemnt of the page instead but the code for it is still present within my CSS. It detailes the types of courses that are offered to the reader with "begginer", "intermidate" and "expert".
+In the middle of the web page (Courses that we offer...) I had text boxes that were orignal meant to transition slighly while hovering over the boxes to give them a tint but them scrap this as i eventual used it on another eleemnt of the page instead but the code for it is still present within my CSS. It detailes the types of courses that are offered to the reader with "begginer", "intermidate" and "expert".
 ![image](https://user-images.githubusercontent.com/108178672/181748087-8ce4e959-811d-4aaf-84a2-ad2b59ba2b2b.png)
+In the About section I had three text boxes that would transition to a darker blue color when hovered over with the cursor to highlight the type of buildings that are used inspecific ares of the UK and makes the text become more visible.
+![image](https://user-images.githubusercontent.com/108178672/181748948-71e01796-de7e-4e5c-a1a1-322a86b0a25d.png)
+In my facilites section I have a video link that a user can chose to play.
+![image](https://user-images.githubusercontent.com/108178672/181751134-d78d60f1-880b-46ab-805b-ac7a75a51b77.png)
+Below it I have in depth detailes on what programes are avalibe based of regional names that are specialised courses that offer differennt levels of training and uttilites.
+![image](https://user-images.githubusercontent.com/108178672/181751267-9fbe957b-186b-4a45-999f-74a98dec0f0a.png)
 
 
-Brief-
+
+Brief- 
+The website should promote Craig Kelly’s graphic design skills and the pet portraits he creates with them. Craig and I agreed the following features (in order of importance) would meet his needs:
+
+-Header with title with a brief explanation of the of what the sites offers users of both genders
+-Courses that are offered in three levels begginer intermidate and expert
+-A About us section that detailes what each area of the uk have different techniques depending on area
+-A facilites section to answer what types of training programes are avalible
+-Comments and reviews section
+-A enrolment form and link
+-Links to his social media
 
 Target Audience-
 
