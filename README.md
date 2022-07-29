@@ -201,6 +201,14 @@ used on the Facilties section of the page with controls to play, stop, rewind fa
 -Footer
 Sat at the bottom is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. These  links are dressed in a icon that are easy to see and recognise to there site location.
 
+TESTING:
+I whent through all my implemantations of features by once adding them within my code making sure that were running and using tools (chrome dev tools, Gitpod and Wave ect.) and if I ran into an issue that I couldnt solve by myself i resulted to using Youtube and google (also slack) to help me with these problems to see what i had missed. I also used extension on my Gitpod to also help me navigate the fixing process for my icons which I was having a problem with them not appearing as intended so instead I created a script at the bottom of my code and placed my source link to refer to which fixed the issue.
+
+I used  The W3C CSS Validation Service to check the current state of my CSS and it passed with flying colors with nocurrent CSS issues detected with my final buil of code.
+![image](https://user-images.githubusercontent.com/108178672/181785159-5ad1d07d-7d84-4019-aabd-ee3d2625ba44.png)
+
+Link- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdom123x456.github.io%2FYoga-meditation-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
 
 
 TECHNOLOGIES USED:
@@ -210,7 +218,8 @@ TECHNOLOGIES USED:
 -Font aswome
 -Google fonts
 -Wave and lighthouse
-
+-Snipping tool
+-W3C CSS Validation Service
 
 
 
