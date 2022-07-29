@@ -24,6 +24,7 @@ My website has buttons on the top of the page that link to other sections on the
 I aslo had icons that would also link to seperate sites which took the form as social media icons at the bottom of the page in the footer, which was acompanied with text.
 
 ![image](https://user-images.githubusercontent.com/108178672/181747326-11ebd97a-c0b6-4528-9e88-96b47db4c6aa.png)
+
 In the middle of the web page (Courses that we offer...) I had text boxes that were orignal meant to transition slighly while hovering over the boxes to give them a tint but them scrap this as i eventual used it on another eleemnt of the page instead but the code for it is still present within my CSS. It detailes the types of courses that are offered to the reader with "begginer", "intermidate" and "expert".
 ![image](https://user-images.githubusercontent.com/108178672/181748087-8ce4e959-811d-4aaf-84a2-ad2b59ba2b2b.png)
 In the About section I had three text boxes that would transition to a darker blue color when hovered over with the cursor to highlight the type of buildings that are used inspecific ares of the UK and makes the text become more visible.
