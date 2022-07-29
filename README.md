@@ -4,8 +4,18 @@
 -Reffrences: I  used Easy Tutorials on YouTube to help me structure my website and to have the right values for example images, padding and alligning text.
 
 -Repository: https://dom123x456.github.io/Yoga-meditation-website/
+External links used- https://www.yogapilatesbolton.com/ 
+
+https://www.formsite.com/solutions/?AdSource=aw-Sitelinks-examples&q=online%20registration%20forms&utm_source=google&utm_medium=cpc&utm_campaign=GGL-UKIE-NB-CORE-BROAD&utm_adgroup=forms_registration-BROAD&utm_term=online%20registration%20forms&utm_device=c&gclid=Cj0KCQjwof6WBhD4ARIsAOi65ajaFg_JzVovDW_hqvSR1LwVin9_7oWE5e3_AgBmieZHAhNJZFD8F30aAnzIEALw_wcB   
+
+Sociall media links-https://www.facebook.com/ https://www.instagram.com/ https://www.twitter.com/ https://uk.linkedin.com/
+
+
+"This was the script used for thee icons" https://kit.fontawesome.com/25fb3548cd.js
 
 -Contents:
+My website has buttons on the top of the page that link to other sections on the page that transition into a underlined orage color when hovering over the buttons current location.
+![image](https://user-images.githubusercontent.com/108178672/181743185-bd63e693-50f8-4a6a-80f7-73dbb442a86c.png)
 
 Key Project Goals-
 This project has 2 main objectives:
