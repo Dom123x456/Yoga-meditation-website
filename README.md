@@ -58,19 +58,46 @@ I had added a comment section viewing other poeples experinces with the services
 
 
 
-
-
 Target Audience-
+To best understand the target market for yoga, we ask ourselves – why does someone practice yoga or start practicing yoga? What makes them go and buy a yoga mat and sign up for a yoga class? This classification gives us the following customer segments for the target market for yoga:
 
-Site structure-
+-People who want to improve their overall health
+-People who want to heal a specific part of the body (eg lower back)
+-People who want to reduce the effects of stress and improve mental well-being
+-People who are looking for an alternative form of exercise
+-People who are trying to lose weight
+-People trying to improve their sleep patterns
+-People trying to overcome depression or anxiety
+-People who are seeking spiritual enlightenment
 
-Colours and UX-
+People practice yoga to improve flexibility, strengthen and tone their muscles and joints, improve their postures, relieve stress and tension from their bodies, and promote relaxation. Having understood this I made sure to have information on my page informing the user of certain techniques to help whilst promoting some of their course that they could undertake.
+
+Site structure:
+
+Colours and UX:
 
 Imagery-
+The images that were used within my website were Yoga and meditation themed with the intent to give a relaxing feeling and to be reasured. This included images of peeople meditating, people perfoming yoga and other images that suited the needs for other sections of the page like, site location images(i.e buildings or image of people for review sections.) 
 
-Features-
+Features:
 
-Technologies Used-
+-Navigational Bar
+Heading each page top, it’s fully responsive and toggles to a neat hamburger menu except the task bar icon that is not currently working on smaller screens. It contains links to the page areas like about and courses for example, which is easy to  fined and user by the user while traversing the page.
+
+-Footer
+Sat at the bottom is the footer. It’s minimal in style and contains the centralised social media links, opening in separate tabs for a great UX. These  links are dressed in a icon that are easy to see and recognise to there site location.
+
+Technologies Used:
+-HTML and CSS
+-Github and Gitpod
+-Chrome developer tools
+-Font aswome
+-Google fonts
+-Wave and lighthouse
+
+
+
+
 
 -Repository: https://dom123x456.github.io/Yoga-meditation-website/
 
@@ -91,6 +118,7 @@ Navigate to the settings tab in the GitHub repository
 Once in settings, navigate to the pages tab on the left of the page
 Under source, select branch ‘master’ and then click ‘save’
 page will no automatically refresh and show a detailed ribbon display to indicate deployment
+
 
 
 
