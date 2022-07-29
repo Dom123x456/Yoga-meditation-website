@@ -78,6 +78,86 @@ People practice yoga to improve flexibility, strengthen and tone their muscles a
 
 
 SITE STRUCTURE:
+Heading -
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181777412-9313e788-26a4-4de9-9e7f-5ae3db06bb05.png)
+
+
+mobile view
+
+![image](https://user-images.githubusercontent.com/108178672/181774224-0f0c8101-25f1-411e-a190-b6e6d7fd88e4.png)
+
+Courses we offer-
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181777249-44820d08-d192-4eb9-80af-beebf0008a58.png)
+
+
+mobile view
+
+![image](https://user-images.githubusercontent.com/108178672/181774570-d2ac9907-5fea-463c-947a-78b1646d1ab1.png)
+
+About us-
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181777165-3dcb5ee8-333f-4515-a21d-b5dc999126df.png)
+
+
+mobile view
+
+![image](https://user-images.githubusercontent.com/108178672/181774914-1a4f19db-f76f-4bd6-a9b1-de8105691877.png)
+
+
+Our facilties-
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181777045-716470a0-5bb9-4960-a0da-535704a45cdd.png)
+
+
+![image](https://user-images.githubusercontent.com/108178672/181776920-294405e5-f368-4758-9f44-5eef2e1bb003.png)
+
+
+mobile view
+
+![image](https://user-images.githubusercontent.com/108178672/181775153-b91ec426-c0c0-483f-bc55-494f80bcf39e.png)
+
+![image](https://user-images.githubusercontent.com/108178672/181775334-0e142633-9ef7-43dd-a04e-f6aaf19e8cea.png)
+
+
+
+What people think-
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181776779-9f0921b4-7f0d-4173-ac56-9dcc79fac529.png)
+
+
+mobile view
+
+![image](https://user-images.githubusercontent.com/108178672/181775544-950c95af-1f8b-43b6-8299-b5a7317a41da.png)
+
+Start enrolment-
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181776694-97e1e412-1ece-4e89-b359-8eddb3b178b3.png)
+
+
+mobile view
+
+![image](https://user-images.githubusercontent.com/108178672/181776031-f583495d-28a8-4f77-b1a8-620ee91e4dc7.png)
+
+
+Footer
+Desktop view
+
+![image](https://user-images.githubusercontent.com/108178672/181776248-39b3f5ab-ae58-4836-923d-388af9d27e4b.png)
+
+
+mobile view
+
+
+![image](https://user-images.githubusercontent.com/108178672/181776125-9cf44444-40fd-467e-81de-b88ad8c262a8.png)
+
 
 COLOURS AND UX:
 
@@ -129,6 +209,9 @@ Navigate to the settings tab in the GitHub repository
 Once in settings, navigate to the pages tab on the left of the page
 Under source, select branch ‘master’ and then click ‘save’
 page will no automatically refresh and show a detailed ribbon display to indicate deployment
+
+
+![image](https://user-images.githubusercontent.com/108178672/181770876-0ac04687-f79d-40bc-b608-8812c499de62.png)
 
 
 
