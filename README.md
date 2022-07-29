@@ -81,6 +81,7 @@ SITE STRUCTURE:
 Heading -
 Desktop view
 
+Note:image size will change due trying to fit in screenshots from different displays
 ![image](https://user-images.githubusercontent.com/108178672/181777412-9313e788-26a4-4de9-9e7f-5ae3db06bb05.png)
 
 
@@ -164,7 +165,15 @@ COLOURS AND UX:
 IMAGERY:
 The images that were used within my website were Yoga and meditation themed with the intent to give a relaxing feeling and to be reasured. This included images of peeople meditating, people perfoming yoga and other images that suited the needs for other sections of the page like, site location images(i.e buildings or image of people for review sections.) 
 
+Images Used:
 
+![image](https://user-images.githubusercontent.com/108178672/181778286-4387a70c-625c-425f-a67b-1685a18ac08b.png)
+
+![image](https://user-images.githubusercontent.com/108178672/181778505-b8f3f939-cfc1-4cdd-ae56-deb5657e8906.png)
+
+![image](https://user-images.githubusercontent.com/108178672/181778653-0d74e640-9c8f-4e24-8c64-32cede4f4d0f.png)
+
+![image](https://user-images.githubusercontent.com/108178672/181778829-a54dacc3-cca1-430c-be28-269476423ecd.png)
 
 
 FEATURES:
