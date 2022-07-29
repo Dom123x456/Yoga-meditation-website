@@ -212,7 +212,11 @@ After changing these errors and adding alt values I was left with these errors l
 ![image](https://user-images.githubusercontent.com/108178672/181791960-57e87a8c-0b9d-4390-9e1d-3b57f5185039.png)
 
 
-Link- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdom123x456.github.io%2FYoga-meditation-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
+
+Links- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdom123x456.github.io%2FYoga-meditation-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fdom123x456.github.io%2FYoga-meditation-website%2F
 
 
 
