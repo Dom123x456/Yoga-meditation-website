@@ -1,5 +1,6 @@
 # Portfolio Project 1 - HTML/CSS Essentials
--Errors: had an issue with git add and git commit were changes were not being save to github. this was resloved by giving github permision to acsess but when putting in the request to the termilnal "resolve git issue" it came out as "riesolve getit ile issue" however the github is now working as desired. I also had developed a sliding bar that would only show on smaller screens howevre i did not mange to make it functional.
+-Errors: had an issue with git add and git commit were changes were not being save to github. this was resloved by giving github permision to acsess but when putting in the request to the termilnal "resolve git issue" it came out as "riesolve getit ile issue" however the github is now working as desired. I also had developed a sliding bar that would only show on smaller screens howevre i did not mange to make it functional. I also had a side bar that would appear on samller screens that couldbe opened when on a smaller screen that could be opened with icons, however i never got the side bar to apper when the icons were clicked on as i didnt have enough time to fix this issue.
+
 
 -Reffrences: I  used Easy Tutorials on YouTube to help me structure my website and to have the right values for example images, padding and alligning text.
 
@@ -11,11 +12,10 @@ https://www.formsite.com/solutions/?AdSource=aw-Sitelinks-examples&q=online%20re
 
 Sociall media links-https://www.facebook.com/ https://www.instagram.com/ https://www.twitter.com/ https://uk.linkedin.com/
 
-
 "This was the script used for thee icons" https://kit.fontawesome.com/25fb3548cd.js
 
 -Contents:
-My website has buttons on the top of the page that link to other sections on the page that transition into a underlined orage color when hovering over the buttons current location.
+My website has buttons on the top of the page that link to other sections on the page that transition into a underlined orage color when hovering over the buttons current location. iaslo had icons that would also link to seperate sites which took the form as social media icons at the bottom of the page in the footer.
 ![image](https://user-images.githubusercontent.com/108178672/181743185-bd63e693-50f8-4a6a-80f7-73dbb442a86c.png)
 
 Key Project Goals-
