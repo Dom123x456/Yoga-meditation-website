@@ -207,6 +207,11 @@ I whent through all my implemantations of features by once adding them within my
 I used  The W3C CSS Validation Service to check the current state of my CSS and it passed with flying colors with nocurrent CSS issues detected with my final buil of code.
 ![image](https://user-images.githubusercontent.com/108178672/181785159-5ad1d07d-7d84-4019-aabd-ee3d2625ba44.png)
 
+After changing these errors and adding alt values I was left with these errors left to fix
+
+![image](https://user-images.githubusercontent.com/108178672/181791960-57e87a8c-0b9d-4390-9e1d-3b57f5185039.png)
+
+
 Link- https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdom123x456.github.io%2FYoga-meditation-website%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
 
 
