@@ -211,6 +211,13 @@ After changing these errors and adding alt values I was left with these errors l
 
 ![image](https://user-images.githubusercontent.com/108178672/181791960-57e87a8c-0b9d-4390-9e1d-3b57f5185039.png)
 
+I fixed the issue by introducing a h2 element but listing it as hidden
+
+![image](https://user-images.githubusercontent.com/108178672/181915005-9f012475-c5f1-43e0-968e-fe3c7b76fae8.png)
+
+After doing this I checked agin to see if it correct the issue and it did leaving no errors or issues found
+
+![image](https://user-images.githubusercontent.com/108178672/181915051-b6aa1122-a471-456f-9f4d-0f16153145a3.png)
 
 
 
