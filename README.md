@@ -283,7 +283,9 @@ https://www.formsite.com/solutions/?AdSource=aw-Sitelinks-examples&q=online%20re
 
 "This was the script used for thee icons" https://kit.fontawesome.com/25fb3548cd.js
 
-- ERRORS: had an issue with git add and git commit where changes were not saving to GitHub. this was resolved by giving GitHub permission to access but when putting in the request to the terminal "resolve git issue" it came out as "resolve to get it ile issue" however GitHub is now working as desired. I also developed a sliding bar that would only show on smaller screens however I did not manage to make it functional. I also had a sidebar that would appear on smaller screens that could be opened when on a smaller screen that could be opened with icons, however, I never got the sidebar to appear when the icons were clicked on as I didn't have enough time to fix this issue.
+- ERRORS: had an issue with git add and git commit where changes were not saving to GitHub. this was resolved by giving GitHub permission to access but when putting in the request to the terminal "resolve git issue" it came out as "resolve to get it ile issue" however GitHub is now working as desired. I also developed a sliding bar that would only show on smaller screens however I did not manage to make it functional. I also had a sidebar that would appear on smaller screens that could be opened when on a smaller screen that could be opened with icons, however, I never got the sidebar to appear when the icons were clicked on as I didn't have enough time to fix this issue. 
+
+- SIDE-NOTE: For the resubmision the navigation bar for the I fixed the issue previosly mention by addin () to the "ShowMenu" and "HideMenu" funtions, I also changed the image for the Facilites section so they were less pixelated and removed the video as it was causing sizing issues on mobile view.
 
 - REFERENCES: I  used Easy Tutorials on YouTube to help me structure my website and to have the right values for example images, padding, and aligning text.
 
