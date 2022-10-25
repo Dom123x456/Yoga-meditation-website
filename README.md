@@ -132,13 +132,13 @@ Our facilties-
 Desktop view
 
 
-![image](https://user-images.githubusercontent.com/108178672/181776920-294405e5-f368-4758-9f44-5eef2e1bb003.png)
+![image](https://user-images.githubusercontent.com/108178672/197658878-8062d0d5-bf92-422f-9476-367f47665737.png)
 
 
 Mobile view
 
 
-![image](https://user-images.githubusercontent.com/108178672/181775334-0e142633-9ef7-43dd-a04e-f6aaf19e8cea.png)
+![image](https://user-images.githubusercontent.com/108178672/197659009-9124abfa-e63a-477d-b396-9007c53ef210.png)
 
 
 
